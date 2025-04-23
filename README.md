@@ -16,7 +16,7 @@ This project is designed to be warm, supportive, and emotionally intelligent —
 
 ## Demo Preview
 
-![Chatbot Screenshot](screenshot.png)
+![Chatbot Screenshot](Screenshot.png)
 
 
 ### Requirements
